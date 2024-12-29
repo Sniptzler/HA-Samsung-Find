@@ -1,3 +1,5 @@
+## ⚠️ Warning/Disclaimer ⚠️
+Fork from Vendeb, this rep is currently only for personal use. If I am able to understand what he did i might start to do some changes and improve some things.
 
 # SmartThings Find Integration for Home Assistant
 
